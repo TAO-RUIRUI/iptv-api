@@ -4,7 +4,7 @@ https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3
 #expoint:-1 tvg-id=“CCTV-1”tvg-name=“CCTV-1”tvg-logo=“https://www.xn-rgv465a.top/tvlogo/CCTV-1.png”组-title=“mayotaxe更新时间”，2026-08-27 14:06:22
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=3a677fa6d7f163da1d59b48b83a5ceaf&t=1791520172
 #expoint：-1 tvg-id=[CCTV-1]tvg-name=[CCTV-1]tvg-logo=[https://www.xn-rgv465a.top/tvlogo/CCTV-1.png]组-title=“mayotaxe youth”，2026-08-27 14:06:22
 http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 #expoint：-1 tvg-id=“CCTV-1”tvg-name=“CCTV-1”tvg-logo=“https：//I. imgur. com/TpA 3 cull. png”group-title=“央视频道”，CCTV-1
