@@ -3,9 +3,8 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-
-
+# 公开演示源（iptv-org，仅收集公开可访问流），可自行替换或删除
+https://iptv-org.github.io/iptv/countries/cn.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
